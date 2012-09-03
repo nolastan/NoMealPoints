@@ -1,0 +1,1 @@
+[31-Jan-2010 13:00:02] PHP Fatal error:  Class 'Controller' not found in /home/stanford/public_html/nomealpoints/system/application/controllers/cron.php on line 2
